@@ -1,0 +1,46 @@
+
+.introduction__content{
+    padding: 20px 0;
+
+}
+
+.introduction__header{
+    position: relative;
+    padding: 0 20px;
+    text-align: center;
+    .what_is_codelady{
+      height: 40px;
+    }
+}
+
+.introduction_item{
+  width: 600px;
+  margin: 0 auto;
+  position: relative;
+  background: url(/assets/introduction.png) no-repeat 50% 0;
+  height: 300px;
+  padding-top: 20px;
+  margin-top: 20px;
+  p{
+    font-family: "游明朝", YuMincho, "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "HG明朝E", "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+    margin-left: 280px;
+    margin-bottom: 0;
+    line-height: 10px;
+
+  }
+  .compatibility{
+    color: #cc3333;
+    font-weight: bold;
+    }
+  .wish{
+    color: #333333;
+    font-weight: bold;
+    line-height: 15px;
+  }
+  .what_is_codelady{
+    font-size: 12px;
+    line-height: 16px;
+    display: block;
+    margin-top: 10px;
+  }
+}
