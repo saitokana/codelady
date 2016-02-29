@@ -1,0 +1,36 @@
+.recommend-item{
+  font-family: "游明朝", YuMincho, "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "HG明朝E", "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+
+  .recommend-item__inner{
+  box-sizing:border-box;
+  padding: 0 5%;
+  float: left;
+  background-color: #ffcccc;
+  width: 270px;
+  margin:0 15px;
+  padding-top: 20px;
+  height: 330px;
+  text-align: center;
+  }
+}
+.recommend__items{
+  width: 900px;
+  margin:0 auto;
+  margin-top: 20px;
+}
+
+.frame{
+  display: block;
+  margin: 10px auto;
+  height: 50px;
+}
+
+.recommend-item__description{
+  display: block;
+  margin:40px auto;
+  width: 190px;
+}
+
+.emphasis{
+  color:#ff3333;
+}
