@@ -1,0 +1,41 @@
+.reason_image{
+  height: 210px;
+  width: 235px;
+}
+
+.reason-item__image{
+  float: left;
+}
+
+.reason-item__description{
+  width: 490px;
+  float:left;
+  margin-left: 15px;
+  line-height: 1.8p;
+
+}
+.reason-item{
+  width: 750px;
+  margin: 0 auto;
+  font-family: "游明朝", YuMincho, "ヒラギノ明朝 ProN W3", "Hiragino Mincho ProN", "HG明朝E", "ＭＳ Ｐ明朝", "ＭＳ 明朝", serif;
+  margin-top: 30px;
+}
+
+.text--emphasis{
+  padding: 0 3px;
+  background-color: #ffcccc;
+  font-weight: 600;
+}
+
+.reason-item__title{
+  height: 70px
+}
+
+.image-header{
+  height: 90px;
+}
+
+#image__header{
+  text-align: center;
+  padding-top: 20px;
+}
